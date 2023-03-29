@@ -34,18 +34,7 @@
 
 ---
 ### GitHub stats:
-<!-- [![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonBozhenko&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AntonBozhenko) -->
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonBozhenko&theme=algolia" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AntonBozhenko&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
+[![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonBozhenko&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AntonBozhenko)
 
 <h4>📫 You can reach me with the links below:</h4>
 <div id="badges">
