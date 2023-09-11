@@ -20,6 +20,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&amp;logo=Node.js&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-339933.svg?style=flat&amp;logo=Express&amp;logoColor=000000)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-222222.svg?style=flat&amp;logo=Sequelize&amp;logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgresSQL-DCDCDC.svg?style=flat&amp;logo=PostgreSQL&amp;logoColor=4169E1)
 
@@ -33,8 +34,6 @@
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Kekshpeker/badges/large"></a>
 
 ---
-### GitHub stats:
-[![Antons's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonBozhenko&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AntonBozhenko)
 
 <h4>📫 You can reach me with the links below:</h4>
 <div id="badges">
