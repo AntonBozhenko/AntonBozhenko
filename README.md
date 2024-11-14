@@ -16,7 +16,7 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&amp;logo=React-Router&amp;logoColor=white)
 
 
-###### Backend && ORM && DB
+###### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&amp;logo=Node.js&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-339933.svg?style=flat&amp;logo=Express&amp;logoColor=000000)
