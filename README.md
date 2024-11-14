@@ -4,7 +4,7 @@
 
 ##### My stack
 
-###### Front-End
+###### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&amp;logo=HTML5&amp;logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&amp;logo=CSS3&amp;logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&amp;logo=Bootstrap&amp;logoColor=white)
@@ -16,7 +16,7 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?style=flat&amp;logo=React-Router&amp;logoColor=white)
 
 
-###### Back-End && ORM && DB
+###### Backend && ORM && DB
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&amp;logo=Node.js&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-339933.svg?style=flat&amp;logo=Express&amp;logoColor=000000)
