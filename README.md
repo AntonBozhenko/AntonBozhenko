@@ -21,11 +21,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&amp;logo=Node.js&amp;logoColor=white)
 ![Express](https://img.shields.io/badge/Express-339933.svg?style=flat&amp;logo=Express&amp;logoColor=000000)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat&logo=RabbitMQ&logoColor=FFFFFF)
+![TypeORM](https://img.shields.io/badge/TypeORM-F0DB4F.svg?style=flat&logo=TypeORM&logoColor=222222)
 ![Sequelize](https://img.shields.io/badge/Sequelize-222222.svg?style=flat&amp;logo=Sequelize&amp;logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgresSQL-DCDCDC.svg?style=flat&amp;logo=PostgreSQL&amp;logoColor=4169E1)
 
 ###### Other tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&amp;logo=Git&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-7A7A7A.svg?style=flat&logo=ChatGPT&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-000000.svg?style=flat&amp;logo=Figma&amp;logoColor=F24E1E)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000.svg?style=flat&amp;logo=Adobe%20Photoshop&amp;logoColor=31A8FF)
 
