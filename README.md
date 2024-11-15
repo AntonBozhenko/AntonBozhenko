@@ -30,7 +30,7 @@
 ###### Other tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&amp;logo=Git&amp;logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=FFFFFF)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-7A7A7A.svg?style=flat&logo=ChatGPT&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-7A7A7A.svg?style=flat&logo=openai&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-000000.svg?style=flat&amp;logo=Figma&amp;logoColor=F24E1E)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000.svg?style=flat&amp;logo=Adobe%20Photoshop&amp;logoColor=31A8FF)
 
